@@ -1,0 +1,7 @@
+
+Histogram Average              : 107.629
+
+Histogram Variance             : 3246.05
+
+Histogram Standard Deviation   : 56.9741
+
